@@ -19,6 +19,7 @@ void func(int n)
                 count++;
                 count++;
                 count++;
+                count++;
                 break;
             }
         }
